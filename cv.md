@@ -1,2 +1,2 @@
-# Tanya Yaroshevich
-## Junior Frontend developer
+## Tanya Yaroshevich
+### Junior Frontend developer

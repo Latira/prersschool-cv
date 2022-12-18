@@ -1,4 +1,4 @@
 # rsschool-cv
-https://latira.github.io/rsschool-cv/
+https://latira.github.io/prersschool-cv/
 
-https://latira.github.io/rsschool-cv/cv
+https://latira.github.io/prersschool-cv/cv
